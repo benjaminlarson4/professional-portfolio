@@ -1,3 +1,3 @@
 # Professional Portfolio
 
-[benjaminilarson.com](www.benjaminilarson.com)
+[benjaminilarson.com](https://www.benjaminilarson.com)
